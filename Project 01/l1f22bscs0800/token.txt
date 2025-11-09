@@ -1,0 +1,117 @@
+=== TOKEN OUTPUT ===
+Line 1: KEYWORD -> shuru
+Line 1: KEYWORD -> lo
+Line 2: KEYWORD -> kaam
+Line 2: IDENTIFIER -> a
+Line 2: ASSIGNMENT_OPERATOR -> =
+Line 2: INTEGER -> 5
+Line 2: SEMICOLON_PUNCTUATIONS -> ;
+Line 3: KEYWORD -> kaam
+Line 3: IDENTIFIER -> b
+Line 3: ASSIGNMENT_OPERATOR -> =
+Line 3: INTEGER -> 15
+Line 3: SEMICOLON_PUNCTUATIONS -> ;
+Line 4: KEYWORD -> kaam
+Line 4: IDENTIFIER -> result
+Line 4: ASSIGNMENT_OPERATOR -> =
+Line 4: INTEGER -> 0
+Line 4: SEMICOLON_PUNCTUATIONS -> ;
+Line 5: KEYWORD -> agar
+Line 5: IDENTIFIER -> a
+Line 5: GREATER_THAN_OPERATOR -> >
+Line 5: IDENTIFIER -> b
+Line 5: KEYWORD -> lo
+Line 6: KEYWORD -> likho
+Line 6: STRING -> "a is greater than b"
+Line 6: SEMICOLON_PUNCTUATIONS -> ;
+Line 7: KEYWORD -> khatam
+Line 8: KEYWORD -> warna
+Line 9: KEYWORD -> likho
+Line 9: STRING -> "b is greater than or equal to a"
+Line 9: SEMICOLON_PUNCTUATIONS -> ;
+Line 10: KEYWORD -> khatam
+Line 11: KEYWORD -> kaam
+Line 11: IDENTIFIER -> count
+Line 11: ASSIGNMENT_OPERATOR -> =
+Line 11: INTEGER -> 0
+Line 11: SEMICOLON_PUNCTUATIONS -> ;
+Line 12: KEYWORD -> jabtak
+Line 12: IDENTIFIER -> count
+Line 12: LESS_THAN_OPERATOR -> <
+Line 12: INTEGER -> 5
+Line 12: KEYWORD -> lo
+Line 13: KEYWORD -> likho
+Line 13: STRING -> "Count: "
+Line 13: SEMICOLON_PUNCTUATIONS -> ;
+Line 14: KEYWORD -> likho
+Line 14: IDENTIFIER -> count
+Line 14: SEMICOLON_PUNCTUATIONS -> ;
+Line 15: IDENTIFIER -> count
+Line 15: INCREMENT_OPERATOR -> ++
+Line 15: SEMICOLON_PUNCTUATIONS -> ;
+Line 16: KEYWORD -> khatam
+Line 17: KEYWORD -> kaam
+Line 17: IDENTIFIER -> arr
+Line 17: LEFT_BRACKET_PUNCTUATIONS -> [
+Line 17: INTEGER -> 3
+Line 17: RIGHT_BRACKET_PUNCTUATIONS -> ]
+Line 17: ASSIGNMENT_OPERATOR -> =
+Line 17: LEFT_BRACE_PUNCTUATIONS -> {
+Line 17: INTEGER -> 10
+Line 17: COMMA_PUNCTUATIONS -> ,
+Line 17: INTEGER -> 20
+Line 17: COMMA_PUNCTUATIONS -> ,
+Line 17: INTEGER -> 30
+Line 17: RIGHT_BRACE_PUNCTUATIONS -> }
+Line 17: SEMICOLON_PUNCTUATIONS -> ;
+Line 18: KEYWORD -> kaam
+Line 18: IDENTIFIER -> i
+Line 18: ASSIGNMENT_OPERATOR -> =
+Line 18: INTEGER -> 0
+Line 18: SEMICOLON_PUNCTUATIONS -> ;
+Line 19: KEYWORD -> jab
+Line 19: IDENTIFIER -> i
+Line 19: LESS_THAN_OPERATOR -> <
+Line 19: INTEGER -> 3
+Line 19: KEYWORD -> lo
+Line 20: IDENTIFIER -> result
+Line 20: ADD_ASSIGN_OPERATOR -> +=
+Line 20: IDENTIFIER -> arr
+Line 20: LEFT_BRACKET_PUNCTUATIONS -> [
+Line 20: IDENTIFIER -> i
+Line 20: RIGHT_BRACKET_PUNCTUATIONS -> ]
+Line 20: SEMICOLON_PUNCTUATIONS -> ;
+Line 21: IDENTIFIER -> i
+Line 21: INCREMENT_OPERATOR -> ++
+Line 21: SEMICOLON_PUNCTUATIONS -> ;
+Line 22: KEYWORD -> khatam
+Line 23: KEYWORD -> likho
+Line 23: STRING -> "Sum of array elements: "
+Line 23: SEMICOLON_PUNCTUATIONS -> ;
+Line 24: KEYWORD -> likho
+Line 24: IDENTIFIER -> result
+Line 24: SEMICOLON_PUNCTUATIONS -> ;
+Line 25: KEYWORD -> kaam
+Line 25: IDENTIFIER -> ch
+Line 25: ASSIGNMENT_OPERATOR -> =
+Line 25: CHAR -> 'Z'
+Line 25: SEMICOLON_PUNCTUATIONS -> ;
+Line 26: KEYWORD -> likho
+Line 26: STRING -> "Character is: "
+Line 26: SEMICOLON_PUNCTUATIONS -> ;
+Line 27: KEYWORD -> likho
+Line 27: IDENTIFIER -> ch
+Line 27: SEMICOLON_PUNCTUATIONS -> ;
+Line 28: KEYWORD -> wapas
+Line 28: INTEGER -> 0
+Line 28: SEMICOLON_PUNCTUATIONS -> ;
+Line 29: KEYWORD -> khatam
+Line 30: EQUAL_OPERATOR -> ==
+Line 30: INTEGER -> 10
+Line 30: SEMICOLON_PUNCTUATIONS -> ;
+
+=== SCANNING SUMMARY ===
+Total Lines Processed: 30
+Total Tokens Found: 110
+Total Errors Found: 1
+Success Rate: 99.10%

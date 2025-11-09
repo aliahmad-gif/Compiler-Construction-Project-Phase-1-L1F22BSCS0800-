@@ -1,0 +1,30 @@
+shuru lo
+    kaam a = 5;
+    kaam b = 15;
+    kaam result = 0;
+    agar a > b lo
+        likho "a is greater than b";
+    khatam
+    warna
+        likho "b is greater than or equal to a";
+    khatam
+    kaam count = 0;
+    jabtak count < 5 lo
+        likho "Count: ";
+        likho count;
+        count++;
+    khatam
+    kaam arr[3] = {10, 20, 30};
+    kaam i = 0;
+    jab i < 3 lo
+        result += arr[i];
+        i++;
+    khatam
+    likho "Sum of array elements: ";
+    likho result;
+    kaam ch = 'Z';
+    likho "Character is: ";
+    likho ch;
+    wapas 0;
+khatam
+@njej == 10 ;

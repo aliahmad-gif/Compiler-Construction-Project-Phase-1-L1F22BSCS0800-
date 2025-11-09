@@ -1,0 +1,8 @@
+=== ERROR OUTPUT ===
+Line 30: ERROR -> '@njej' (invalid identifier - cannot start with special characters)
+
+=== SCANNING SUMMARY ===
+Total Lines Processed: 30
+Total Tokens Found: 110
+Total Errors Found: 1
+Success Rate: 99.10%
